@@ -1,7 +1,7 @@
 # Emory Data Mining (CS470) Code Repository
 **By: Niki Vasan**
 
-This repo holds the code I wrote for my assignments and final project in Emory's CS470 Data Mining class. This is a sequel to the CS334 foundational machine learning class I took previously (code repo can be found [here] (https://github.com/nikivasan/CS334MachineLearning)) that covers many unsupervised learning and pattern mining techniques. The topics covered in this class include:
+This repo holds the code I wrote for my assignments and final project in Emory's CS470 Data Mining class. This is a sequel to the CS334 foundational machine learning class I took previously (code repo can be found [here] {https://github.com/nikivasan/CS334MachineLearning}) that covers many unsupervised learning and pattern mining techniques. The topics covered in this class include:
 1. Association Mining
 2. Clustering
 3. Similarity Analysis
