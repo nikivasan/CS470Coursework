@@ -1,0 +1,45 @@
+        # L1_itemset = []
+        # result = []
+        # for tID, transaction in enumerate(data):
+        #     for item in transaction: 
+        #         new_Node = Node(itemset=item)
+        #         if all([node.itemset == (item) for node in L1_itemset]) == True:
+        #             # print("Adding New Item...")
+        #             new_Node.tIDs.add(tID)
+        #             L1_itemset.append(new_Node)
+        #         else:
+        #             # print("Existing Item, Adding tID...")
+        #             new_Node.tIDs.add(tID)
+        #             # print(new_Node.itemset, new_Node.tIDs)
+        
+        
+        # for i in L1_itemset:
+        #     print(i.itemset, i.tIDs)
+        # #     # if len(i.tIDs) >= min_sup:
+        # #     #     result.append(i)
+
+
+        # class Node(object):
+#     itemset = tuple()
+#     tIDs = set()
+
+#     def __init__(self, itemset=None, tIDs=None):
+#         if itemset is None:
+#             self.itemset = ()
+#         else:
+#             self.itemset = itemset
+        
+#         if tIDs is None:
+#             self.tIDs = set()
+#         else:
+#             self.tIDs = tIDs
+    
+#     def __eq__(self, other):
+#         if not isinstance(other, Node):
+#             return NotImplemented
+#         return self.itemset != other.itemset
+
+# class Apriori(object): 
+            
+#     def __init__(self):
+#         self = self
