@@ -1,0 +1,11 @@
+digraph {
+rankdir = "LR"
+A -> B
+A -> E
+A -> C
+B -> D 
+E -> B
+D -> E
+D -> C
+C -> A
+}
