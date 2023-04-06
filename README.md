@@ -15,6 +15,7 @@ topics are as follows:**
 1. HW1 - Introductory Data Mining Concepts
 2. HW2 - Apriori Algorithm (from scratch)
 3. HW3 - KMeans Algorithm (from scratch)
+4. HW4 - Pagerank Implementation (from scratch)
 
 
 
